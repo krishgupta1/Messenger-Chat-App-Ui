@@ -156,7 +156,7 @@ class Home extends StatelessWidget {
                 itemCount: users.length,
                 itemBuilder: (context, index) {
                   return ListTile(
-                    leading: CircleAvatar(
+                    leading: Avatar(
                       radius: 25,
                       backgroundImage: NetworkImage(
                         'https://i.pravatar.cc/150?img=${index + 1}',
