@@ -42,7 +42,7 @@ lib/
 To run this project locally:
 
 ```bash
-git clone https://github.com/sahilmishra03/Messenger-App-Ui
+git clone https://github.com/krishgupta1/Messenger-Chat-App-Ui
 cd messenger-ui-clone
 flutter pub get
 flutter run
@@ -65,5 +65,6 @@ Make sure you have Flutter installed. You can check [Flutter's official docs](ht
 Inspired by the Facebook Messenger UI design.
 
 ---
+
 
 Feel free to fork, customize, or build upon this project!
